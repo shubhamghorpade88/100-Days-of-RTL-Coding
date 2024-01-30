@@ -1,6 +1,6 @@
 In 100-Days-of-RTL-Coding, I'll be focusing on improving my Digital Electronics skills, covering VERILOG and System VERILOG codes.
 
-This is my list of 100 days of RTL coding.
+This is my list of 100 Days of RTL Coding.
 
 Day 1:- Basic Logic Gates,
 Day 2:- Half Adder,
