@@ -2,9 +2,9 @@ In #100daysofrtl, I'll be focusing on improving my Digital Electronics skills, c
 
 This is my list of 100 days of RTL coding.
 
-Day 1:- Basic Logic Gates
-Day 2:- Half Adder
-Day 3:- 4x1 Multiplexer
+Day 1:- Basic Logic Gates,
+Day 2:- Half Adder,
+Day 3:- 4x1 Multiplexer,
 Day 4:- 3 to 8 Decoder
 Day 5:- Priority Encoder
 Day 6:- JK FlipFlop
