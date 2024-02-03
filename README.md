@@ -45,4 +45,7 @@ Day 40:- Round Robin Arbiter,
 Day 41:- 4 bit full adder with carry lookahead adder,
 Day 42:- Adder cum subtractor,
 Day 43:- Traffic light controller,
-Day 44:- Mealy Sequence Detector
+Day 44:- Mealy Sequence Detector,
+Day 45:- Clock Divide by 1.5,
+Day 46:- Kogge Stone Adder,
+Day 47:- Booth Multiplier
