@@ -48,4 +48,5 @@ Day 43:- Traffic light controller,
 Day 44:- Mealy Sequence Detector,
 Day 45:- Clock Divide by 1.5,
 Day 46:- Kogge Stone Adder,
-Day 47:- Booth Multiplier
+Day 47:- Booth Multiplier,
+Day 48:- Rising Edge Detector
