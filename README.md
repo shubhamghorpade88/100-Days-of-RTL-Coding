@@ -49,4 +49,6 @@ Day 44:- Mealy Sequence Detector,
 Day 45:- Clock Divide by 1.5,
 Day 46:- Kogge Stone Adder,
 Day 47:- Booth Multiplier,
-Day 48:- Rising Edge Detector
+Day 48:- Rising Edge Detector,
+Day 49:- One Hot Encoding,
+Day 50:- Vending Machine
